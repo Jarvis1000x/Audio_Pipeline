@@ -1,0 +1,10 @@
+librosa==0.8.1
+scikit-learn==0.24.1
+matplotlib==3.4.2
+streamlit==0.87.0
+pydub==0.25.1
+audiomentations==0.18.0
+scipy==1.4.1
+numpy==1.21.2
+
+
