@@ -7,3 +7,4 @@ audiomentations==0.18.0
 scipy==1.4.1
 numpy==1.21.2
 SoundFile==0.10.3.post1
+libsndfile1-dev
